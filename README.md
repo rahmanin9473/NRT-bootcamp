@@ -15,3 +15,7 @@ NRT Data Analysis Bootcamp
 **DAY 3, July 3**
 - Supercomputing at BU with Python
 - Hackaton
+
+## Helpful Links
+
+- Research Computing Services [rcs.bu.edu](https://www.bu.edu/tech/support/research/)
