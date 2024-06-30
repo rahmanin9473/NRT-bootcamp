@@ -19,4 +19,5 @@ NRT Data Analysis Bootcamp
 ## Resources
 
 - Research Computing Services [rcs.bu.edu](https://www.bu.edu/tech/support/research/)
+- GitHub Docs: [https://docs.github.com/en](https://docs.github.com/en)
 
