@@ -4,15 +4,16 @@ NRT Data Analysis Bootcamp
 
 ## Agenda
 
-**DAY 1, July 1**  
-- Best Practices in Research Coding
+**DAY 1, June 30**  
 - Version Control, Team Coding, and Contributing to Public Packages with Github
+- Best Practicies in Research Coding
 
-**DAY 2, July 2**  
-- Intermediate Python: Idiomatic and Efficient Coding and Data Visualization
-- Data Management
+**DAY 2, July 1**  
+- Intermediate Python: Idiomatic and Efficient Coding
+- Intermediate Python: Profiling and using Copilot
 
-**DAY 3, July 3**
+**DAY 3, July 2**
+- Best Practicies for data visualization
 - Supercomputing at BU with Python
 - Hackaton
 
